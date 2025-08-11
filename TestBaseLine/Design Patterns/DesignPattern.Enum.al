@@ -1,4 +1,4 @@
-enum 67500 "PTE Design Pattern"
+enum 92730 "PTE Design Pattern"
 {
     Extensible = true;
 

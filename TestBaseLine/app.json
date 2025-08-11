@@ -15,9 +15,9 @@
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
   "idRanges": [
-    {
-      "from": 67500,
-      "to": 67999
+        {
+      "from": 92730,
+      "to": 92749
     }
   ],
   "features": [
@@ -27,5 +27,6 @@
     "allowDebugging": true,
     "allowDownloadingSource": false,
     "includeSourceInSymbolFile": false
-  }
+  },
+  "runtime": "14.3"
 }

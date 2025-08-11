@@ -1,4 +1,4 @@
-table 67500 "PTE Table Configuration"
+table 92731 "PTE Table Configuration"
 {
     DataClassification = ToBeClassified;
 

@@ -1,4 +1,4 @@
-table 67501 "PTE Field Configuration"
+table 92730 "PTE Field Configuration"
 {
     DataClassification = ToBeClassified;
 
